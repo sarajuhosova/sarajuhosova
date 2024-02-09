@@ -14,5 +14,5 @@ Hello, World! ☀️
 * 👩‍🏫 During my studies, I TA'd my fair share of courses, including _Functional Programming_ and _Concepts of Programming Languages_. I've also been a Head TA for _Computer Organisation_ and _Software Quality & Testing_!
 * 🎅 My favourite programming challenge is [Advent of Code](https://adventofcode.com/). You can check out my solutions [here](https://github.com/sarajuhosova/aoc)!
 
-**Things I Like:** 🧙 fantasy books 🎲 [board games](https://boardgamegeek.com/collection/user/sarantja) 🎮 video games 🍀 irish dance 🏃‍♀️ running 📷 photography
+**Things I Like:** 🧙 fantasy books 🎲 [board games]([https://boardgamegeek.com/collection/user/sarantja](https://boardgamegeek.com/collection/user/sarantja?sort=rank&sortdir=asc&rankobjecttype=subtype&rankobjectid=1&columns=title%7Cthumbnail%7Crank%7Crating%7Cbggrating%7Ccomment%7Ccommands&geekranks=Board%20Game%20Rank&objecttype=thing&ff=1&subtype=boardgame)https://boardgamegeek.com/collection/user/sarantja?sort=rank&sortdir=asc&rankobjecttype=subtype&rankobjectid=1&columns=title%7Cthumbnail%7Crank%7Crating%7Cbggrating%7Ccomment%7Ccommands&geekranks=Board%20Game%20Rank&objecttype=thing&ff=1&subtype=boardgame) 🎮 video games 🍀 irish dance 🏃‍♀️ running 📷 photography
 
